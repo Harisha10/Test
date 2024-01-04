@@ -12,9 +12,7 @@
     "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
-    "web-vitals": "^2.1.4",
-    "devextreme": "^23.1.6",
-    "devextreme-react": "^23.1.6"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
